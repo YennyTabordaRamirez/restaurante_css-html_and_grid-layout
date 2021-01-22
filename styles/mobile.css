@@ -1,0 +1,25 @@
+header{
+    padding: 10px 5px;
+}
+.header__img--logo{
+    width: 200px;
+}
+header h2{
+    font-size: 2rem;
+}
+.header__nav--menu ul{
+    justify-content: space-around;
+}
+.header__nav--menu ul li {
+    padding: 2px;
+}
+.header__nav--menu ul li a{
+    font-size: 1.3rem;
+}
+.main__first-section--presentation{
+    height: 280px;
+}
+.main__first-section--overlay p{   
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+}
